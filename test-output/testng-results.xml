@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="6" failed="5" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-28T18:58:45 IST" name="Default suite" finished-at="2024-06-28T19:00:30 IST" duration-ms="104900">
+    <groups>
+    </groups>
+    <test started-at="2024-06-28T18:58:45 IST" name="Default test" finished-at="2024-06-28T19:00:30 IST" duration-ms="104900">
+      <class name="pack.TestNGproject.testng1">
+        <test-method is-config="true" signature="first()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T18:58:45 IST" name="first" finished-at="2024-06-28T18:59:40 IST" duration-ms="55533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method is-config="true" signature="before()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T18:59:41 IST" name="before" finished-at="2024-06-28T18:59:42 IST" duration-ms="964" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="tng3()[pri:1, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T18:59:42 IST" name="tng3" finished-at="2024-06-28T18:59:47 IST" duration-ms="5390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tng3 -->
+        <test-method is-config="true" signature="after()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T18:59:47 IST" name="after" finished-at="2024-06-28T18:59:47 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T18:59:47 IST" name="before" finished-at="2024-06-28T18:59:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="tng6(java.lang.String)[pri:2, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T18:59:47 IST" name="tng6" data-provider="Amazon data" finished-at="2024-06-28T18:59:55 IST" duration-ms="8216" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vijay songs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tng6 -->
+        <test-method is-config="true" signature="after()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T18:59:55 IST" name="after" finished-at="2024-06-28T18:59:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T18:59:55 IST" name="before" finished-at="2024-06-28T18:59:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="tng6(java.lang.String)[pri:2, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T18:59:55 IST" name="tng6" data-provider="Amazon data" finished-at="2024-06-28T19:00:00 IST" duration-ms="4304" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ajith Songs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tng6 -->
+        <test-method is-config="true" signature="after()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:00 IST" name="after" finished-at="2024-06-28T19:00:00 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:00 IST" name="before" finished-at="2024-06-28T19:00:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="tng6(java.lang.String)[pri:2, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:00 IST" name="tng6" data-provider="Amazon data" finished-at="2024-06-28T19:00:04 IST" duration-ms="4264" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vikram songs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tng6 -->
+        <test-method is-config="true" signature="after()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:04 IST" name="after" finished-at="2024-06-28T19:00:04 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:04 IST" name="before" finished-at="2024-06-28T19:00:04 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="tng6(java.lang.String)[pri:2, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:04 IST" name="tng6" data-provider="Amazon data" finished-at="2024-06-28T19:00:12 IST" duration-ms="7886" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dhanush songs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tng6 -->
+        <test-method is-config="true" signature="after()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:12 IST" name="after" finished-at="2024-06-28T19:00:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:12 IST" name="before" finished-at="2024-06-28T19:00:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="tng6(java.lang.String)[pri:2, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:12 IST" name="tng6" data-provider="Amazon data" finished-at="2024-06-28T19:00:16 IST" duration-ms="3871" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GV prakash songs]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tng6 -->
+        <test-method is-config="true" signature="after()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:16 IST" name="after" finished-at="2024-06-28T19:00:16 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:16 IST" name="before" finished-at="2024-06-28T19:00:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="tng1(java.lang.String,java.lang.String)[pri:3, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:16 IST" name="tng1" data-provider="sample data" finished-at="2024-06-28T19:00:25 IST" duration-ms="9751" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[velmurugan@0903]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Check the title]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Check the title
+at org.junit.Assert.fail(Assert.java:89)
+at org.junit.Assert.assertTrue(Assert.java:42)
+at pack.TestNGproject.testng1.tng1(testng1.java:43)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tng1 -->
+        <test-method is-config="true" signature="after()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:25 IST" name="after" finished-at="2024-06-28T19:00:25 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method signature="tng1(java.lang.String,java.lang.String)[pri:3, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:25 IST" name="tng1" data-provider="sample data" finished-at="2024-06-28T19:00:27 IST" duration-ms="1623" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[velan@0903]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Check the title]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Check the title
+at org.junit.Assert.fail(Assert.java:89)
+at org.junit.Assert.assertTrue(Assert.java:42)
+at pack.TestNGproject.testng1.tng1(testng1.java:43)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tng1 -->
+        <test-method is-config="true" signature="before()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:25 IST" name="before" finished-at="2024-06-28T19:00:25 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method is-config="true" signature="after()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:27 IST" name="after" finished-at="2024-06-28T19:00:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:27 IST" name="before" finished-at="2024-06-28T19:00:27 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="tng1(java.lang.String,java.lang.String)[pri:3, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:27 IST" name="tng1" data-provider="sample data" finished-at="2024-06-28T19:00:28 IST" duration-ms="980" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[velu@0903]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1234]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Check the title]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Check the title
+at org.junit.Assert.fail(Assert.java:89)
+at org.junit.Assert.assertTrue(Assert.java:42)
+at pack.TestNGproject.testng1.tng1(testng1.java:43)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tng1 -->
+        <test-method is-config="true" signature="after()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:28 IST" name="after" finished-at="2024-06-28T19:00:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method signature="tng1(java.lang.String,java.lang.String)[pri:3, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:28 IST" name="tng1" data-provider="sample data" finished-at="2024-06-28T19:00:29 IST" duration-ms="785" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vela@0903]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Check the title]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Check the title
+at org.junit.Assert.fail(Assert.java:89)
+at org.junit.Assert.assertTrue(Assert.java:42)
+at pack.TestNGproject.testng1.tng1(testng1.java:43)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tng1 -->
+        <test-method is-config="true" signature="before()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:28 IST" name="before" finished-at="2024-06-28T19:00:28 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method is-config="true" signature="after()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:29 IST" name="after" finished-at="2024-06-28T19:00:29 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="before()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:29 IST" name="before" finished-at="2024-06-28T19:00:29 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method signature="tng1(java.lang.String,java.lang.String)[pri:3, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:29 IST" name="tng1" data-provider="sample data" finished-at="2024-06-28T19:00:30 IST" duration-ms="871" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vel@0903]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Check the title]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Check the title
+at org.junit.Assert.fail(Assert.java:89)
+at org.junit.Assert.assertTrue(Assert.java:42)
+at pack.TestNGproject.testng1.tng1(testng1.java:43)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tng1 -->
+        <test-method is-config="true" signature="after()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:30 IST" name="after" finished-at="2024-06-28T19:00:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+        <test-method is-config="true" signature="last()[pri:0, instance:pack.TestNGproject.testng1@2e385cce]" started-at="2024-06-28T19:00:30 IST" name="last" finished-at="2024-06-28T19:00:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- last -->
+      </class> <!-- pack.TestNGproject.testng1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
